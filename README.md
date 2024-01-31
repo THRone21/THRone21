@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I’m Haoran
 
-<!--
-**THRone21/THRone21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a master's student at UCAS
+- 🌱 I’m currently studying Metabolomics
+- 🤔 I’m looking for help with improving bioinformatics skills.
+- 💬 Ask me about anyting related to clinical research
+- 📫 Read more about me: [...](https://www.researchgate.net/profile/Haoran-Tao-3)https://www.researchgate.net/profile/Haoran-Tao-3
+- 😄 Interests: :fast_forward: Metabolomics :fast_forward: Genomics :fast_forward: Multi-omics :fast_forward: Mass Spectrometry :fast_forward: Proteomics :fast_forward: Liquid Chromatography 
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=THRone21&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You are my ![Visitor Count](https://profile-counter.glitch.me/THRone21/count.svg) visitor,Thank You! :heartbeat: :heartbeat:
+
